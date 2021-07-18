@@ -1,0 +1,3 @@
+Leer este tutorial probablemente reforzó tu interés por usar Python, deberías estar
+ansioso por aplicar Python a la resolución de tus problemas reales. 
+¿A dónde deberías ir para aprender más?'
